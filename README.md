@@ -1,3 +1,3 @@
 # Mission-to-Mars
 
-### Website using Flask and MongoDB to scrape and present Mars data.
+A Flask web app that uses MongoDB to store scraped Mars data.
